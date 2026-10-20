@@ -1,5 +1,4 @@
-/*Programmer Chase Singofen
-date 10/17/2016
+/*
 specifications: practice problems, mixed arithmetic problems, double, int,
 modulous, and minus operators*/
 

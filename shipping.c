@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-Date 10/5/2016
+/*
 Specifications:Shipping Calculations.
 */
 //This program will calculate shipping charges based on miles and weight. 

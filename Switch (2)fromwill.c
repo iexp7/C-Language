@@ -1,5 +1,4 @@
-/*Programmer-
-Date-
+/*
 Specafication- */
 //Preproccessor directives
 #include<stdio.h>
@@ -41,4 +40,4 @@ main() {
 	}
 	//End main
 	system("pause");
-}
+}

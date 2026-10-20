@@ -1,5 +1,4 @@
-/*Programmer-Chase Singhofen
-Date-
+/*
 Specafication- */
 //Preproccessor directives
 #include<stdio.h>

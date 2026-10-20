@@ -1,6 +1,5 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
-/*Programmer Chase Singhofen
-Date 9/6/2016
+/*
 Specifications: Take the input from the user and output it
 */
 

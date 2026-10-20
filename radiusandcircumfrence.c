@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-Date: 9/13/2016
+/*
 Specifications: Finding average grades*/
 
 //*Pre Processor directives

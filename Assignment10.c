@@ -1,6 +1,4 @@
-/*Programmer: chase
-Date: 11/22/2016
-Specification: Assignment 10
+/*Specification: Assignment 10
 */
 
 //preprocess directives

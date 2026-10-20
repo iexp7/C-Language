@@ -1,5 +1,4 @@
-/*Programmer:Chase Singhofen
-Date: 11/12/16
+/*
 Specification:Write switch program that tells user to input 5 numbers, then asks them to choose
 option to display smallest, largest, sum and the avg. perform program 5 times including one invalid 
 statement. 

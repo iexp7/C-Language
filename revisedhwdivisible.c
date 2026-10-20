@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-Date 10/18/16
+/*
 Specifications: Create a loop that will output
 the divisibles of 2 and 7. but less than 200.
 */

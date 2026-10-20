@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-Date: 9/13/2016
+/*
 Specifications:input output numbers */
 
 //*Programmer directions: Enter numbers greater, smaller, and equal.

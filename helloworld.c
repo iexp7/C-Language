@@ -1,5 +1,4 @@
-/*Programmer - chase
-Date- 9/1/2016
+/*
 Hello World- First Program
 */
 

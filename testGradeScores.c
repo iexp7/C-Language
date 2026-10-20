@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-Date 10/8/16
+/*
 Specifications: Ask the user to enter test scores.
 When they have entered all the tests scores, 
 they will enter the value of -1. The Program

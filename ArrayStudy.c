@@ -1,6 +1,4 @@
-/*Programmer:Chase Singhofen
-Date:
-Specification:Array's Introduction
+/*Specification:Array's Introduction
 */
 
 //preprocessors

@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-Date 10/18/16
+/*
 Specifications: Create a loop that will output
 the sum of all odd numbers between 20 and 100.
 */

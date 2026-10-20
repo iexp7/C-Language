@@ -1,5 +1,4 @@
-/*Programmers: Isaah Santos, Chase Singhofen, Brandt Barry
-Date: 12-1-16
+/*
 Specifications: Quiz 6*/
 #include<stdio.h>
 #include<stdlib.h>

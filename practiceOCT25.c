@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-date 10/25/2016
+/*
 Specifications:in class work*/
 
 #include<stdio.h>

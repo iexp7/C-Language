@@ -1,5 +1,4 @@
-/*Programmer Chase Singhofen
-date 10/18/2016
+/*
 Specifications: shortcut operators*/
 
 #include<stdio.h>

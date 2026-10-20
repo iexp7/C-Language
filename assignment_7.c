@@ -1,6 +1,4 @@
-/*Programmer Chase Singhofen
-Date: 10/26/16
-Specifications: Write C program that will allow user to enter infinite numbers one number 
+/*Specifications: Write C program that will allow user to enter infinite numbers one number 
 at a time and all numbers greateer than zero. must have a way 
 for user to stop entering values. once the user stops -screen 
 will display highest, lowest, number of values entered, and avg of numbers */

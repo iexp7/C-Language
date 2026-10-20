@@ -1,6 +1,4 @@
-/*programmer - chase
-functions in class 11/22/16
-use of functions*/
+/*use of functions*/
 
 #include<stdio.h>
 #include<stdlib.h>

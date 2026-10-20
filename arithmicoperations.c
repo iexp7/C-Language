@@ -1,6 +1,4 @@
-/*Programmer Chase Singhofen
-9/8/2016
-Specification-Addition*/
+/*Specification-Addition*/
 //Preprocessor directives
 
 

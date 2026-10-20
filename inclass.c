@@ -1,5 +1,4 @@
-/*programmer Chase Singhofen
-date 10/18/16
+/*
 specifications 
 */
 

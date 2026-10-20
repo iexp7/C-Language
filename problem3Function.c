@@ -1,4 +1,4 @@
-/*programmer chase
+/*
 instructions - write C program  that allows the user
 to enter 3 grades from student and displays the average and 
 percentage*/

@@ -1,5 +1,4 @@
-/*Programmer: Chase Singhofen
-Date:
+/*
 Specification:Homework 9. Array Function.
 */
 
